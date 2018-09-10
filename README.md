@@ -1,4 +1,4 @@
-# kosniptata-seedling-transplant-project-
+# kosniptata-seedling-transplant-project
 Repository for data emerging from the NSF-funded seedling transplant project in Kosnipata Peru
 
 Collaborative Research: Understanding range limits and plant migration in response to climate change in neotropical montane forests: moving from observational models to mechanisms
